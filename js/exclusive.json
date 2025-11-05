@@ -1,0 +1,62 @@
+[
+    {
+        "id": "ex1",
+        "name": "Neon Flux Hoodie",
+        "price": 459,
+        "image": "images/exclusive/ex1.png",
+        "category": "exclusive",
+        "description": "Premium hoodie with neon accents and tech fabric",
+        "sizes": ["S","M","L","XL"],
+        "colors": ["Cyber Black","Neon Blue"]
+    },
+    {
+        "id": "ex2",
+        "name": "Holographic Silk Shirt",
+        "price": 500,
+        "image": "images/exclusive/ex2.png",
+        "category": "exclusive",
+        "description": "Silky shirt with subtle holographic weave for evening wear",
+        "sizes": ["S","M","L","XL"],
+        "colors": ["Silver","Midnight"]
+    },
+    {
+        "id": "ex3",
+        "name": "Urban Tech Shoe",
+        "price": 499,
+        "image": "images/exclusive/ex4.png",
+        "category": "exclusive",
+        "description": "High-performance shoe with smart cushioning",
+        "sizes": ["7","8","9","10","11"],
+        "colors": ["Black","White"]
+    },
+    {
+        "id": "ex4",
+        "name": "Denim Matrix Jacket",
+        "price": 599,
+        "image": "images/exclusive/ex5.png",
+        "category": "exclusive",
+        "description": "Classic denim jacket reimagined with cyber details",
+        "sizes": ["S","M","L","XL"],
+        "colors": ["Indigo","Black"]
+    },
+    {
+        "id": "ex5",
+        "name": "Axiom Smartwatch",
+        "price": 699,
+        "image": "images/exclusive/ex6.png",
+        "category": "exclusive",
+        "description": "Feature-rich smartwatch with health, notification and OLED display",
+        "sizes": [],
+        "colors": ["Black","Silver"]
+    },
+    {
+        "id": "ex6",
+        "name": "hat",
+        "price": 799,
+        "image": "images/exclusive/ex7.png",
+        "category": "exclusive",
+        "description": "cyber-inspired with holographic sheen",
+        "sizes": ["S","M","L","XL"],
+        "colors": ["Holo Silver","Midnight Black"]
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "id": 1,
+        "name": "Hoodie",
+        "price": 299,
+        "image": "images/exclusive/ex1.png",
+        "category": "hoodies",
+        "description": "Premium tech-inspired hoodie with minimalist design",
+        "sizes": ["S", "M", "L", "XL"],
+        "colors": ["Black", "Gray", "Navy"]
+    },
+    {
+        "id": 2,
+        "name": "Wireless Headphones",
+        "price": 499,
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+        "category": "electronics",
+        "description": "Premium wireless headphones with noise cancellation"
+    },
+    {
+        "id": 3,
+        "name": "Casual T-Shirt",
+        "price": 249,
+        "image": "images/exclusive/ex3.png",
+        "category": "clothing",
+        "description": "Comfortable cotton t-shirt for everyday wear"
+    },
+    {
+        "id": 4,
+        "name": "Smart Watch",
+        "price": 299,
+        "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+        "category": "electronics",
+        "description": "Feature-rich smartwatch with health tracking"
+    },
+    {
+        "id": 5,
+        "name": "Running Shoes",
+        "price": 89.99,
+        "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+        "category": "clothing",
+        "description": "Comfortable running shoes with superior cushioning"
+    },
+    {
+        "id": 6,
+        "name": "Smartphone",
+        "price": 799,
+        "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+        "category": "electronics",
+        "description": "Latest smartphone with advanced camera features"
+    }
+    ,
+    
+    {
+        "id": 9,
+        "name": "Cargo Pants",
+        "price": 449,
+        "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "category": "pants",
+        "description": "Durable cargo pants with multiple pockets",
+        "sizes": ["M","L","XL"],
+        "colors": ["Olive","Black"]
+    },
+    {
+        "id": 10,
+        "name": "Classic Jeans",
+        "price": 499,
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+        "category": "jeans",
+        "description": "Comfortable classic-fit jeans",
+        "sizes": ["S","M","L","XL","XXL"],
+        "colors": ["Blue","Black"]
+    },
+    {
+        "id": 11,
+        "name": "Graphic T-Shirt",
+        "price": 199,
+        "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+        "category": "t-shirts",
+        "description": "Comfortable cotton t-shirt with a bold graphic",
+        "sizes": ["S","M","L","XL"],
+        "colors": ["White","Black","Gray"]
+    },
+    {
+        "id": 12,
+        "name": "Urban Street Sneakers",
+        "price": 599,
+        "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+        "category": "shoes",
+        "description": "Trendy urban sneakers with premium comfort and style",
+        "sizes": ["7","8","9","10","11"],
+        "colors": ["White/Blue","Black/Red","Gray/Green"],
+        "excludeFromFeatured": false
+    }
+]
